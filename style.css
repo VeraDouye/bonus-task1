@@ -1,0 +1,230 @@
+body{
+     background: #e5e5e5;
+     margin-bottom: 180px;
+}
+
+#welcome{
+      position: absolute;
+      width: 125px;
+      height: 35px;
+      left: 514px;
+      top: 64px;
+
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 30px;
+     line-height: 35px;
+
+     color: #000000;
+
+}
+
+#title{
+position: absolute;
+width: 174px;
+height: 35px;
+left: 665px;
+top: 179px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #0D0C0C;
+
+}
+
+#line{
+position: absolute;
+width: 67.5px;
+height: 0px;
+left: 710px;
+top: 235px;
+
+border: 4px solid #D89616;
+
+}
+
+#text1{
+position: absolute;
+width: 513px;
+height: 168px;
+left: 551px;
+top: 301px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #0D0C0C;
+
+}
+
+#text2{
+position: absolute;
+width: 513px;
+height: 168px;
+left: 550px;
+top: 487px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #0D0C0C;
+
+}
+
+#aside{
+position: absolute;
+width: 422px;
+height: 496px;
+left: 92px;
+top: 196px;
+
+background: url("pexels-andres-ayrton-6578395.jpg");
+background-position: center;
+background-size: cover;
+}
+
+#form{
+position: absolute;
+width: 852px;
+height: 657px;
+left: 151px;
+top: 789px;
+margin-bottom: 180px;
+
+background: #ffffff;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+
+#form h1{
+position: absolute;
+width: 321.67px;
+height: 59px;
+left: 78.58px;
+top: 40px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 59px;
+
+color: #0D0C0C;
+
+}
+
+#fn{
+position: absolute;
+width: 321.67px;
+height: 21px;
+left: 83.58px;
+top: 160px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #0D0C0C;
+
+}
+
+#fname{
+position: absolute;
+width: 663px;
+height: 43px;
+left: 83px;
+top: 186px;
+
+background: #FFFFFF;
+border: 1px solid #0D0C0C;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+#ln{
+
+position: absolute;
+width: 321.67px;
+height: 21px;
+left: 84px;
+top: 240px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #0D0C0C;
+}
+
+#lname{
+position: absolute;
+width: 663px;
+height: 43px;
+left: 87px;
+top: 272px;
+
+background: #FFFFFF;
+border: 1px solid #0D0C0C;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+#mg{
+
+position: absolute;
+width: 321.67px;
+height: 21px;
+left: 87px;
+top: 338px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #0D0C0C;
+}
+
+#msg{
+position: absolute;
+width: 663px;
+height: 160px;
+left: 87px;
+top: 370px;
+
+background: #FFFFFF;
+border: 1px solid #0D0C0C;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+#submit{
+position: absolute;
+width: 217px;
+height: 40px;
+left: 533px;
+top: 560px;
+
+background: rgba(0, 77, 230, 0.76);
+border-radius: 8px;
+}
